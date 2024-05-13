@@ -1,0 +1,95 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 14.11.2023 00:14:40
+
+newmtl 15___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka arbusto.jpg
+	map_Kd arbusto.jpg
+
+newmtl GenTree_105_AE3D_03122023_F2_Material_009___TWIGS
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.5000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0300
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd GenTree_105_AE3D_03122023-F2-OB\textures\GenTree_1_Twigs_AE3D_03312023-A-DIFFUSE.png
+
+newmtl GenTree_105_AE3D_03122023_F2_Material_012___TRUNK
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0300
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd GenTree_105_AE3D_03122023-F2-OB\textures\GenTree_1_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+	map_Pr GenTree_105_AE3D_03122023-F2-OB\textures\GenTree_1_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl GenTree_105_AE3D_03122023_F2_Material_010___Leaves
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.5000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0300
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd GenTree_105_AE3D_03122023-F2-OB\textures\Maple_AE3D_03272021-A2-50pc.png
+	map_d GenTree_105_AE3D_03122023-F2-OB\textures\Maple_AE3D_03272021-A2-50pc.png
+
+newmtl GenTree_105_AE3D_03122023_F2_Material_011___Secondary_Limbs
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0300
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd GenTree_105_AE3D_03122023-F2-OB\textures\GenTree_1_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+	map_Pr GenTree_105_AE3D_03122023-F2-OB\textures\GenTree_1_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
+
+newmtl GenTree_105_AE3D_03122023_F2_Material
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.9000 0.9000 0.9000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0300
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd GenTree_105_AE3D_03122023-F2-OB\textures\GenTree_1_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+	map_Pr GenTree_105_AE3D_03122023-F2-OB\textures\GenTree_1_Trunk_Limbs_AE3D_03312023-A-SMOOTH.png
