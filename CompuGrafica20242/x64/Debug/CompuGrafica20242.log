@@ -1,0 +1,28 @@
+﻿  Final (1).cpp
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\include\mesh.h(88,1): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\include\meshAnim.h(116,1): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(73,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(236,82): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(237,82): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(238,82): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(239,94): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(240,82): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(241,91): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(242,97): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(346,22): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(353,23): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(355,92): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(371,23): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(378,17): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(386,28): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(1388,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(1389,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(1393,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(1394,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(1396,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(1397,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(1404,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  CompuGrafica20242.vcxproj -> C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\x64\Debug\CompuGrafica20242.exe
