@@ -1,0 +1,55 @@
+﻿  Final (1).cpp
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(73,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(236,82): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(237,82): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(238,82): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(239,94): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(240,82): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(241,91): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(242,97): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(346,22): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(353,23): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(355,92): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(371,23): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(378,17): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(386,28): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(1329,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(1330,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(1334,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(1335,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(1337,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(1338,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\CompuGrafica20242\Final (1).cpp(1345,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+Final (1).obj : error LNK2019: símbolo externo _glfwInit sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo _glfwTerminate sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo _glfwGetPrimaryMonitor sin resolver al que se hace referencia en la función "void __cdecl getResolution(void)" (?getResolution@@YAXXZ)
+Final (1).obj : error LNK2019: símbolo externo _glfwGetVideoMode sin resolver al que se hace referencia en la función "void __cdecl getResolution(void)" (?getResolution@@YAXXZ)
+Final (1).obj : error LNK2019: símbolo externo _glfwCreateWindow sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo _glfwWindowShouldClose sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo _glfwSetWindowShouldClose sin resolver al que se hace referencia en la función "void __cdecl my_input(struct GLFWwindow *,int,int,int,int)" (?my_input@@YAXPAUGLFWwindow@@HHHH@Z)
+Final (1).obj : error LNK2019: símbolo externo _glfwSetWindowPos sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo _glfwSetFramebufferSizeCallback sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo _glfwPollEvents sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo _glfwSetInputMode sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo _glfwGetKey sin resolver al que se hace referencia en la función "void __cdecl my_input(struct GLFWwindow *,int,int,int,int)" (?my_input@@YAXPAUGLFWwindow@@HHHH@Z)
+Final (1).obj : error LNK2019: símbolo externo _glfwSetKeyCallback sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo _glfwSetCursorPosCallback sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo _glfwSetScrollCallback sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo _glfwGetTime sin resolver al que se hace referencia en la función "void __cdecl `dynamic initializer for 'currentTime''(void)" (??__EcurrentTime@@YAXXZ)
+Final (1).obj : error LNK2019: símbolo externo _glfwMakeContextCurrent sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo _glfwSwapBuffers sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo _glfwGetProcAddress sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo _SDL_GetTicks sin resolver al que se hace referencia en la función "public: void __thiscall ModelAnim::Draw(class Shader)" (?Draw@ModelAnim@@QAEXVShader@@@Z)
+Final (1).obj : error LNK2019: símbolo externo _SDL_Delay sin resolver al que se hace referencia en la función _main
+Final (1).obj : error LNK2019: símbolo externo "public: __thiscall Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QAE@XZ) sin resolver al que se hace referencia en la función "public: __thiscall ModelAnim::ModelAnim(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)" (??0ModelAnim@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)
+Final (1).obj : error LNK2019: símbolo externo "public: __thiscall Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QAE@XZ) sin resolver al que se hace referencia en la función __unwindfunclet$??0ModelAnim@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z$3
+Final (1).obj : error LNK2019: símbolo externo "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@PBDI@Z) sin resolver al que se hace referencia en la función "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z)
+Final (1).obj : error LNK2019: símbolo externo "public: char const * __thiscall Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QBEPBDXZ) sin resolver al que se hace referencia en la función "private: void __thiscall Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@Model@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Final (1).obj : error LNK2019: símbolo externo _aiGetMaterialTextureCount sin resolver al que se hace referencia en la función "public: unsigned int __thiscall aiMaterial::GetTextureCount(enum aiTextureType)const " (?GetTextureCount@aiMaterial@@QBEIW4aiTextureType@@@Z)
+Final (1).obj : error LNK2019: símbolo externo _aiGetMaterialTexture sin resolver al que se hace referencia en la función "public: enum aiReturn __thiscall aiMaterial::GetTexture(enum aiTextureType,unsigned int,struct aiString *,enum aiTextureMapping *,unsigned int *,float *,enum aiTextureOp *,enum aiTextureMapMode *)const " (?GetTexture@aiMaterial@@QBE?AW4aiReturn@@W4aiTextureType@@IPAUaiString@@PAW4aiTextureMapping@@PAIPAMPAW4aiTextureOp@@PAW4aiTextureMapMode@@@Z)
+lib\glew32.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+lib\glfw3.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+C:\Users\carlo\OneDrive\Escritorio\CompuGrafica20242\CompuGrafica20242\Debug\CompuGrafica20242.exe : fatal error LNK1120: 27 externos sin resolver
