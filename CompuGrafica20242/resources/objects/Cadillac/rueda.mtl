@@ -1,0 +1,19 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 16.11.2023 01:34:45
+
+newmtl cadilla_blinn1
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.5000 0.5000 0.5000
+	Tr 0.0000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	Pr 0.8894
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5000
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd maps\Cadillac CT4 V 2022_lambert6_BaseColor.png
+	map_Ks maps\Cadillac CT4 V 2022_lambert6_Roughness.png
+	norm maps\Cadillac CT4 V 2022_lambert6_Normal.png
